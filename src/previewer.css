@@ -1,0 +1,16 @@
+#previewer {
+    width: 60%;
+    height: auto;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    border: 1px solid rgb(117, 117, 117);
+    padding: 0px;
+}
+
+#previewer1 {
+    width: 80%;
+    height: auto;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    border: 1px solid rgb(117, 117, 117);
+}

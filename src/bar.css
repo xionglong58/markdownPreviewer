@@ -1,0 +1,49 @@
+i {
+    padding: 5px;
+    color: rgb(29, 130, 155);
+}
+
+i:nth-child(2):hover {
+    color: rgb(41, 180, 214);
+}
+
+i:nth-child(2) {
+    position: absolute;
+    right: 0px;
+}
+
+.bar {
+    width: 50%;
+    height: 30px;
+    background-color: rgb(211, 191, 164);
+    margin: 0 auto;
+    border: 1px solid rgb(172, 170, 170);
+    position: relative;
+}
+
+.bar1 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(211, 191, 164);
+    margin: 0 auto;
+    border: 1px solid rgb(172, 170, 170);
+    position: relative;
+}
+
+.bar2 {
+    width: 60%;
+    height: 30px;
+    background-color: rgb(211, 191, 164);
+    margin: 0 auto;
+    border: 1px solid rgb(172, 170, 170);
+    position: relative;
+}
+
+.bar3 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(211, 191, 164);
+    margin: 0 auto;
+    border: 1px solid rgb(172, 170, 170);
+    position: relative;
+}
